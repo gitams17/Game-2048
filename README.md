@@ -1,2 +1,3 @@
 # THE
-This is my code
+This is my first github repository.
+Owner - Amarjeet Shukla
